@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Larry Ntori</h1>
-<h3 align="center">A passionate frontend developer from Ghana, Accra</h3>
+<h1 align="left">Hi 👋, I'm Larry Ntori</h1>
+<h3 align="left">A passionate frontend developer from Ghana, Accra</h3>
 
 - 📫 How to reach me **lntori99@gmail.com**
 
