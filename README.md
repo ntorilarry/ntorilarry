@@ -39,6 +39,11 @@
 
 ### ⚙️ Tech Stack
 
+#### 📱 Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
+
 #### 🚧 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,js,html,css,sass,tailwind,bootstrap" />
