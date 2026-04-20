@@ -44,7 +44,7 @@
   <img src="https://skillicons.dev/icons?i=flutter,dart" />
 </p>
 
-#### 🚧 Frontend
+#### 🚧 Web
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,js,html,css,sass,tailwind,bootstrap" />
 </p>
@@ -62,15 +62,6 @@
 #### 🧪 Testing & Others
 <p>
   <img src="https://skillicons.dev/icons?i=jest,selenium" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=larryntori&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=larryntori&theme=tokyonight" />
 </p>
 
 ---
