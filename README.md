@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Larry Ntori</h1>
-<h3 align="center">Frontend Developer | Building scalable, user-focused web and mobile experiences</h3>
+<h3 align="center">Fullstack Developer | Building scalable, user-focused web and mobile experiences</h3>
 
 <p align="center">
   📍 Accra, Ghana <br/>
@@ -10,10 +10,10 @@
 
 ### 🧑‍💻 About Me
 
-- 💡 Frontend developer with 5+ years of experience
-- ⚛️ Specialized in Flutter, React, Next.js & modern UI systems
+- 💡 Fullstack developer with 5+ years of experience
+- ⚛️ Specialized in Flutter, React, Next.js, NodeJs, Python & modern systems
 - 🎯 Focused on performance, scalability, and clean UI/UX
-- 🌱 Currently exploring WebSockets, system design & advanced frontend architecture
+- 🌱 Currently exploring WebSockets, system design & advanced architecture
 - 🚀 Passionate about building products that solve real-world problems
 
 ---
