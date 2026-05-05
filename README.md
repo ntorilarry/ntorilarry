@@ -46,12 +46,12 @@
 
 #### 🚧 Web
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,js,html,css,sass,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,angular,jquery,javascript,typescript,redux,ts,js,html,css,sass,tailwind,bootstrap" />
 </p>
 
 #### 🔧 Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,python,postgresql,sql,mysql,mariadb,firebase,supabase" />
 </p>
 
 #### 🛠 Tools & Platforms
