@@ -51,12 +51,12 @@
 
 #### 🔧 Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,python,postgresql,sql,mysql,mariadb,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,python,postgreSql,sql,mySql,mariadb,firebase,supabase" />
 </p>
 
 #### 🛠 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,docker,webpack,figma,xd,photoshop,illustrator,heroku" />
+  <img src="https://skillicons.dev/icons?i=git,docker,webpack,aws,netlify,orangehost,figma,xd,photoshop,illustrator,heroku" />
 </p>
 
 #### 🧪 Testing & Others
