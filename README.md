@@ -51,7 +51,7 @@
 
 #### 🔧 Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,python,postgreSql,sql,mySql,mariadb,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,python,postgresql,sql,mySql,mariadb,firebase,supabase" />
 </p>
 
 #### 🛠 Tools & Platforms
